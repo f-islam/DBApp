@@ -25,7 +25,7 @@ public class DBApp {
         String dbName = "db1";
         String driver = "com.mysql.jdbc.Driver"; 
         String userName = "root"; 
-        String password = "2000";*/
+        String password = "xxxx";*/
         
         String url = "jdbc:mysql://db4free.net/"; 
         String dbName = "mahbubdb"; 
